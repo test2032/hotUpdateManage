@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/NextAuth-5.0-purple?style=flat-square&logo=next.js" alt="NextAuth"/>
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/>
 </div>
-
+-c
 ## 📋 项目介绍
 
 Hot Update Manager 是一个专为现代应用设计的热更新管理系统，支持多项目管理、版本控制、自动更新检测等功能。无论是移动应用、桌面软件还是嵌入式系统，都可以通过本系统实现平滑的版本升级。
